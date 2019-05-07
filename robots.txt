@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://madeeteit.plantednutrition.com/sitemap.xml
